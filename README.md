@@ -1,3 +1,3 @@
 # HelloWorld
 
-Edit this a bit
+Something changed in the master while I was working on feature3
